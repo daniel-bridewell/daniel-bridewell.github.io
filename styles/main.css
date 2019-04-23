@@ -1,5 +1,5 @@
 .topnav {
-    background-color: #000
+    background-color: #000;
     overflow: hidden;
 }
 
@@ -9,11 +9,11 @@
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
-    font-size: 14px:
+    font-size: 14px;
 }
 
 .topnav a:hover {
-    background-color: #ddd
+    background-color: #ddd;
     color: black;
 }
 
